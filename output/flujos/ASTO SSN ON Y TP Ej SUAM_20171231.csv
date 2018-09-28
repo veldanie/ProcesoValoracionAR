@@ -1,0 +1,15 @@
+Imputación,nombre de cuenta,Débito,Crédito,cm,debe ME,haber ME,cambio,cod_anal,descripc,canal prod,cod depto,cod linea,cod secc,cod subsecc,cod grupo,canal contable
+102061934,O.N. Santander Clase 19 Sura,7922335.34246576,0,,,,,,,,,,,,,
+401100701,Actualización,0,7922335.34246576,,,,,,,,,,,,,
+102061934,O.N. Santander Clase 19 Sura,1738208.21917808,0,,,,,,,,,,,,,
+401100701,Intereses T.P (renta) (Cr),0,1738208.21917808,,,,,,,,,,,,,
+Imputación,nombre de cuenta,Débito,Crédito,cm,debe ME,haber ME,cambio,cod_anal,descripc,canal prod,cod depto,cod linea,cod secc,cod subsecc,cod grupo,canal contable
+102061934,Bonte 2020 Sura,0,-122464041.09589,,,,,,,,,,,,,
+401100701,Actualización,-122464041.09589,0,,,,,,,,,,,,,
+102061934,Bonte 2020 Sura,3906506.84931507,0,,,,,,,,,,,,,
+401100701,Intereses T.P (renta) (Cr),0,3906506.84931507,,,,,,,,,,,,,
+Imputación,nombre de cuenta,Débito,Crédito,cm,debe ME,haber ME,cambio,cod_anal,descripc,canal prod,cod depto,cod linea,cod secc,cod subsecc,cod grupo,canal contable
+102061934,O.N. HSBC Clase 7 Sura,0,-189745.890410952,,,,,,,,,,,,,
+401100701,Actualización,-189745.890410952,0,,,,,,,,,,,,,
+102061934,O.N. HSBC Clase 7 Sura,941095.89041096,0,,,,,,,,,,,,,
+401100701,Intereses T.P (renta) (Cr),0,941095.89041096,,,,,,,,,,,,,
